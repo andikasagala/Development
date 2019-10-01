@@ -4,3 +4,4 @@ This repo is index for Development.
 
 Lists:
 - Note Pocket
+- VMware Fixer
